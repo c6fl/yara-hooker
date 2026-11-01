@@ -10,7 +10,7 @@ auto worker_thread( LPVOID ) -> DWORD
 	return 0;
 }
 
-auto DllMain( HMODULE module, DWORD reason, [[maybe_unreferenced]]void* ) -> bool __stdcall
+auto DllMain( HMODULE module, DWORD reason, [[maybe_unreferenced]]void* ) -> bool __stdcall // maybe
 {
 	if ( reason == DLL_PROCESS_ATTACH )
 	{
