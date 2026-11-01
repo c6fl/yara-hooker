@@ -14,3 +14,5 @@ Inject this into RobloxPlayerBeta, log file `yara_scan_log.txt` will appear.
 ## Very useful info
 
 - I use of hardcoded RVAs for current `version-5a21b87bbc2641cf` build on purpose, will stop working on next update.
+
+## PS: no ai used i know my code is beautiful thanks
